@@ -1,0 +1,17 @@
+.boton-crear {
+    width: 170px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgba(98, 120, 247, 1);
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 24px 0;
+}
+
+.boton-crear:hover {
+    color: #95ffd4;
+
+}
